@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+
+    "compilerOptions": {
+        "watch": true,
+        "target": "es6",
+        "pretty": true,
+        "module": "commonjs"
+    },
+
+    "include": [
+        "S2_V1_BasicFeatures/**/*.ts",
+        "S2_V2_AdvancedFeatures/**/*.ts",
+        "S3_V2_TypeScriptCompile/**/*.ts",
+        "S3_V3_Encoder/**/*.ts"
+    ]
+}

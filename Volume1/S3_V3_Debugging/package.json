@@ -1,0 +1,9 @@
+{
+  "name": "sample-encoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "private": true
+}

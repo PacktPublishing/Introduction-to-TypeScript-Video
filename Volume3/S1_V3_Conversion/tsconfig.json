@@ -1,0 +1,10 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "none",
+        "declaration": true
+    },
+    "files": [
+        "draggabilly.ts"
+    ]
+}

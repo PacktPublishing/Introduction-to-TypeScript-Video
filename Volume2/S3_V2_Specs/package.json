@@ -1,0 +1,19 @@
+{
+  "name": "sample-encoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "test": "node_modules/.bin/jasmine"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.5.38",
+    "@types/minimist": "^1.1.29",
+    "@types/node": "0.0.2",
+    "jasmine": "^2.5.2",
+    "minimist": "^1.2.0"
+  }
+}
